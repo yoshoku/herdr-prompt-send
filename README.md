@@ -73,20 +73,6 @@ Nothing is sent if the text is empty or contains only whitespace.
 
 No keymaps are defined by default.
 
-## Health check
-
-```vim
-:checkhealth herdr-prompt-send
-```
-
-It checks that Neovim is 0.10 or later, the `herdr` executable is found,
-the herdr server is running,
-and `herdr agent list` returns at least one agent other than the pane running Neovim.
-
-## Documentation
-
-See `:help herdr-prompt-send` for details.
-
 ## License
 
 [MIT](LICENSE.txt)
