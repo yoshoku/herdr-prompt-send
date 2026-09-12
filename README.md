@@ -75,4 +75,4 @@ No keymaps are defined by default.
 
 ## License
 
-[MIT](LICENSE.txt)
+This plugin is available as open source under the terms of the [MIT License](LICENSE.txt).
